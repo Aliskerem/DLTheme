@@ -10,7 +10,6 @@ A Windows application to toggle between light and dark themes and switch between
 ### Prerequisites
 - Windows OS (11 or 10)
 ### Installation
-1. Clone the repository:
-   ```bash
-   Go to there and select your Download 
-https://github.com/Aliskerem/DLTheme/releases/tag/DLTheme
+1. Go to this link and select your download:
+   ```bash   
+   https://github.com/Aliskerem/DLTheme/releases/tag/DLTheme
