@@ -8,9 +8,7 @@ A Windows application to toggle between light and dark themes and switch between
 ## Getting Started
 
 ### Prerequisites
-- Windows OS
-- (Add any additional requirements for your app.)
-
+- Windows OS (11 or 10)
 ### Installation
 1. Clone the repository:
    ```bash
