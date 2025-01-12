@@ -4,9 +4,7 @@ A Windows application to toggle between light and dark themes and switch between
 
 ## Features
 - **Light/Dark Theme Switching**: Easily toggle between light and dark themes for your system.
-- **Language Options**: Choose between English and one additional language.
-- **User Preferences**: Automatically saves and loads your theme and language preferences.
-
+- **Language Options**: Choose between English and Turskish languages.
 ## Getting Started
 
 ### Prerequisites
